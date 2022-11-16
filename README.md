@@ -1,5 +1,5 @@
 # lse-dissertation
 
 London School of Economics and Political Science 
-Msc Finance 19/20
-Topics in Portfolio Management
+<br>Msc Finance 19/20
+<rb>Topics in Portfolio Management
